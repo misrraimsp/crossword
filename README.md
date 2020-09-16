@@ -14,7 +14,14 @@ A solution must include exactly *k* words from *S*. Some fields of the board can
 1. download the [list of english lemmas](https://www.kilgarriff.co.uk/bnc-readme.html) extracted from the British National Corpus prepared by Prof. Adam Kilgarriff
 2. select from the list only: adverbs (adv), verbs (v), adjectives (a) and nouns (n)
 
-For more info see:
+
+### Used Technologies:
+
++ Java SE
++ Eclipse
++ Git
+
+### For more info see:
 
 + [**Task Definition.pdf**](https://github.com/misrraimsp/crossword/blob/master/Task%20Definition.pdf)
 + [**Final Report.pdf**](https://github.com/misrraimsp/crossword/blob/master/Final%20Report.pdf)
